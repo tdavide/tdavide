@@ -1,4 +1,4 @@
 MCD
 ===
 
-Prova programma per calcolare MCD
+Prova di programma per calcolare MCD
